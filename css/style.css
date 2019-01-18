@@ -61,8 +61,14 @@ header a:hover{
 
 #first a {
   color: #1783bb;
-  
+  text-decoration:none;
 }
+
+#first a:hover{
+  text-decoration: underline;
+}
+
+
 
 
 
